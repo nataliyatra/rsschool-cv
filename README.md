@@ -1,2 +1,2 @@
 cv task
-https://nataliyatra.github.io/rsschool-cv/cv
+https://nataliyatra.github.io/rsschool-cv/
